@@ -33,7 +33,7 @@ Test the button in action here: [Live Demo](https://srjgit86.github.io/emoji-App
 
 ## Installation
 
-You don't need to install anything to use this web application. Simply open the `index.html` file in a modern web browser, and you're ready to go!
+You don't need to install anything to use this web application. Simply open the `emoji.html` file in a modern web browser, and you're ready to go!
 
 ## Dependencies
 
